@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an independent project on semantic segmentation and smart filters. More coming soon :)
+- 💼 I'm currently working as an Applied Scientist Intern at Amazon.
+- 🔭 I’ve worked on an independent project on semantic segmentation and smart filters. More coming soon :)
 - 🌱 I’m currently learning multi-task learning in ML | Recommendation Systems.
 - 📫 How to reach me: ![Mail me!](mailto://tkaran.iitd@gmail.com)
 
